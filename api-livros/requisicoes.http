@@ -1,0 +1,10 @@
+GET http://localhost:8800/
+
+### 
+POST http://localhost:8800/
+Content-Type: application/json
+
+{
+    "livro": "tranças do rei careca",
+    "data": "2012-07-05"
+}
