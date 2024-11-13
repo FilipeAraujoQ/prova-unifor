@@ -13,18 +13,19 @@ Para executar este projeto, é necessário criar um banco de dados MySQL com uma
 - `status`: BOOL, status de leitura do livro (`0` para "não lido" e `1` para "lido").
 
 ## Instalação e Execução
-
-```bash
 # Clone este repositório
 $ git clone https://github.com/FilipeAraujoQ/desafio-back-end.git
 
-# Acesse a pasta api-livros
-$ cd api-livros
+# Acesse a pasta do projeto
+$ cd desafio-back-end
 
-# Baixe as dependencias
+# Baixe as dependências
 $ npm install
 
 # Execute a API
 $ npm run start
 
-#Por fim so abrir o index.html na pasta 'front' da maneira que quiser
+# Abra o arquivo index.html na pasta 'front' para visualizar a Landing Page e a Tela de Login.
+# Pode ser aberto diretamente no navegador ou usando o servidor local.
+
+
